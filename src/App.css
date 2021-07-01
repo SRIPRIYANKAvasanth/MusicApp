@@ -1,0 +1,23 @@
+.App {
+  overflow: hidden !important;
+  height: 100vh;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(2px + 2vmin);
+  color: white;
+ 
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.rhap_time{
+  color: #868686 !important}
+.rhap_theme{color: #868686}
+
